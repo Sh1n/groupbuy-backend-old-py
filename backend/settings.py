@@ -25,7 +25,7 @@ SECRET_KEY = '@ak1%bp1gp3@m26(u2zv)7&y8a_4ag6dkxpe62t+bm@f54vj_z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sheltered-taiga-90756.herokuapp.com']
 
 
 # Application definition
